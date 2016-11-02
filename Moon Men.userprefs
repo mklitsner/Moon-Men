@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FadeInLight.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Test.cs">
     <Files>
-      <File FileName="Assets/InvisibleShadowCaster.shader" Line="1" Column="1" />
-      <File FileName="Assets/ShadowFinder.cs" Line="1" Column="1" />
-      <File FileName="Assets/FadeInLight.cs" Line="37" Column="6" />
+      <File FileName="Assets/MyShaders/ChangeMaterial.shader" Line="12" Column="33" />
+      <File FileName="Assets/MyShaders/InvisibleShadowCaster.shader" Line="8" Column="3" />
+      <File FileName="Assets/Scripts/Test.cs" Line="8" Column="51" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
