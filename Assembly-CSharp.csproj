@@ -45,10 +45,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\First Person Controller\Scripts\FirstPersonDrifter.cs" />
+     <Compile Include="Assets\First Person Controller\Scripts\LockMouse.cs" />
+     <Compile Include="Assets\First Person Controller\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\First Person Controller\Scripts\Optional\CameraFadeOnStart.cs" />
+     <Compile Include="Assets\First Person Controller\Scripts\Optional\CameraZoom.cs" />
+     <Compile Include="Assets\First Person Controller\Scripts\Optional\CheckIfBelowLevel.cs" />
+     <Compile Include="Assets\First Person Controller\Scripts\Optional\HeadBob.cs" />
+     <Compile Include="Assets\First Person Controller\Scripts\Optional\PauseMenu.cs" />
+     <Compile Include="Assets\First Person Controller\Scripts\Utils\CameraFade.cs" />
      <Compile Include="Assets\Scripts\FadeInLight.cs" />
      <Compile Include="Assets\Scripts\ShadowFinder.cs" />
      <Compile Include="Assets\Scripts\Test.cs" />
      <None Include="Assets\MyShaders\ChangeMaterial.shader" />
+     <None Include="Assets\First Person Controller\info.txt" />
      <None Include="Assets\MyShaders\InvisibleShadowCaster.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
